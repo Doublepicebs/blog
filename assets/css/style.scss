@@ -1,0 +1,10 @@
+@import "{{ site.theme }}";
+@import "../../style.css";
+
+header {
+  display: none !important;
+}
+
+footer {
+  display: none !important;
+}
